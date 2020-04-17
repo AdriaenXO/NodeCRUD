@@ -1,4 +1,6 @@
-# client
+# NodeCRUD
+
+First project in Node.js. A simple CRUD server and client.
 
 ## Project setup
 ```
